@@ -1,5 +1,6 @@
 type，repo，branch前两个空格，“：”后面一个空格，差一个都不行的：
 deploy:
   type: git
-  repository: url
+  repository: github.com/yingxongla/yingxongla.github.io.git
+
   branch: master
